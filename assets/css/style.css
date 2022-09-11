@@ -6,9 +6,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 h1.title {
- font-family: Ferderant, Georgia, serif; 
+ font-family: Ferderant;
+ font-style: bold;
+ background: #D1D1D1;
 }
 
 body {
   font-family: Lora;
+  background-color: #7a0800;
+  background-image: url("https://www.transparenttextures.com/patterns/iron-grip.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
