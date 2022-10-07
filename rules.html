@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<script src="{{ site.baseurl }}/assets/js/active_search.js"></script>
+
+<label for="searchbox">Search</label>
+<input type="search" oninput="liveSearch()" id="searchbox" >
+
+{% for rule in site.data.rules %}
+<div class="card">
+  <h3>{{ rule.name}}</h3>
+  <p>
+    {{ rule.description }}
+    <br />
+    <div class="reference">
+      {{ rule.reference }}
+    </div>
+  </p>
+</div>
+{% endfor %}
