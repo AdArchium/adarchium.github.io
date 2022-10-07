@@ -3,7 +3,8 @@ layout: default
 ---
 
 <label for="searchbox">Search</label>
-<input type="search" oninput="setTimeout(function(){liveSearch();},500);" id="searchbox" >
+<!--<input type="search" oninput="setTimeout(function(){liveSearch();},500);" id="searchbox" >-->
+<input type="search" oninput="liveSearch()" id="searchbox" >
 
 {% for rule in site.data.rules %}
 <div class="card">
@@ -11,9 +12,9 @@ layout: default
   <p>
     {{ rule.description }}
     <br />
-    <div class="reference">
+    <span class="reference">
       {{ rule.reference }}
-    </div>
+    </span>
   </p>
 </div>
 {% endfor %}
