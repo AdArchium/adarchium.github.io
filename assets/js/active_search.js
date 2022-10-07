@@ -9,7 +9,7 @@ function liveSearch() {
     //Use innerText if all contents are visible
     //Use textContent for including hidden elements
     for (var i = 0; i < cards.length; i++) {
-        if(cards[i].textContent.toLowerCase()
+        if(cards[i].innerContent.toLowerCase()
                 .includes(search_query.toLowerCase())) {
             cards[i].classList.remove("is-hidden");
         } else {
