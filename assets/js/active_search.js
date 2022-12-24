@@ -11,10 +11,10 @@ function liveSearch() {
         if(cards[i].textContent.toLowerCase()
                 .includes(search_query.toLowerCase())) {
             cards[i].classList.remove("is-hidden");
-            cards[i].hidden = false;
+            //cards[i].hidden = false;
         } else {
             cards[i].classList.add("is-hidden");
-            cards[i].hidden = true;
+            //cards[i].hidden = true;
         }
     }
 }

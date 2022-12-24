@@ -1,0 +1,12 @@
+- name: Accursed
+  description: 'All models with the **Daemon** Unit Type and/or Psyker or Corrupted Sub-type must reduce their Toughness and Strength by -1 while they are within 6" of a model with this special rule. Models that also have this special rule are immune to its effects.'
+  reference: LH, 315
+- name: Achean Force
+  description: "The controlling player of any unit that includes one or more models with the Psyker Unit Sub-type and a weapon or ability with this special rule, may choose to activate this special rule before making any attacks with that weapon or resolving the ability. To activate this special rule, the controlling player must make a single Psychic check using the Leadership Characteristic of any model in the unit that does not have the Independent Character special rule.\n If the Check is successful, then the Strength value of all attacks made with weapons or abilities with this special rule is Increased by +2 (in addition to any modifiers the attack or weapon may already possess), this benefit is applied only in the Phase in which these attacks are made and ends immediately after that Phase is resolved. If the Check is failed then no benefit is gained, but the models in that unit may attack as normal."
+  reference: LH, 259
+- name: Adamantium Will (X+)
+  description: "Models with the Adamantium Will special rule gain an Invulnerable Save against any Wound inflicted by a weapon with the Force or Psychic Focus special rules and Wounds inflicted by Perils of the Warp – the value of this Save is indicated in brackets after the rule. For example, a model with Adamantium Will (5+) gains a 5+ Invulnerable Save against any Wound inflicted by a weapon with the Force or Psychic Focus special rules and Wounds inflicted by Perils of the Warp. If, for any reason, the Adamantium Will special rule is presented without a value in brackets then consider the rule to be Adamantium Will (5+)."
+  reference: Core, 231
+- name: Ancient Devotion
+  description: "While a model with this special rule is part of a unit, all Dreadnought models in that unit gain the It Will Not Die (5+) special rule."
+  reference: LA/LH, 114

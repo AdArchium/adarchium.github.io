@@ -6,7 +6,8 @@ layout: default
 <!--<input type="search" oninput="setTimeout(function(){liveSearch();},500);" id="searchbox" >-->
 <input type="search" id="searchbox" >
 
-{% for rule in site.data.rules %}
+{% assign sortedRules = site.data.rules | sort: 'Name' %}
+{% for rule in sortedRules %}
 <div class="card">
   <h3>{{ rule.name}}</h3>
   <p>
