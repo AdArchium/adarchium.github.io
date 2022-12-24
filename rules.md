@@ -9,13 +9,14 @@ layout: default
 {% assign sortedRules = site.data.rules | sort: 'Name' %}
 {% for rule in sortedRules %}
 <div class="card">
-  <h3>{{ rule.name}}</h3>
+  <h3>{{ rule.Name}}</h3>
   <p>
-    {{ rule.description }}
-    <br />
+    {{ rule.Description }}
+    <!--<br />
     <span class="reference">
       {{ rule.reference }}
-    </span>
+    </span>-->
   </p>
+  <hr />
 </div>
 {% endfor %}
