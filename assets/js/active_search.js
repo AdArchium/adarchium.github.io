@@ -2,6 +2,7 @@
 // https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/
 
 function liveSearch() {
+    let cards = document.querySelectorAll('.card')
     let search_query = document.getElementById("searchbox").value;
 
     //Use innerText if all contents are visible
@@ -18,7 +19,6 @@ function liveSearch() {
 
 // A little delay
 window.onload=function(){
-    let cards = document.querySelectorAll('.card')
     let typingTimer;
     let typeInterval = 500;
     let searchInput = document.getElementById('searchbox');
