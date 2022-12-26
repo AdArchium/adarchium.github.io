@@ -6,7 +6,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
@@ -23,15 +26,13 @@
       <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
     </header>
     <div id="container">
-      <p class="tagline"></p>
+      <p class="tagline">A Noosphere Archive for the Age of Darkness</p>
       <div id="main" role="main">
         <div class="download-bar">
         <div class="inner">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
-          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
-          {% endif %}
-          {{ site.description | default: site.github.project_tagline }}
+          <center>
+          Navigation Goes Here ... | Page 1 | Page 2 | Page 3
+          </center>
         </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
@@ -42,8 +43,11 @@
     </div>
     <footer>
       <div class="owner">
-        "I remember the Imperium as it was meant to be, as it could have been, and unlike the Emperor, I have no gilded wonder to keep me, and soon I shall pass."<br />
-        <i>~ Remembrancer A.K., Circa M31</i>
+        <center>
+        "I remember the Imperium as it was meant to be, as it could have been, and unlike the 
+        Emperor, I have no gilded wonder to keep me, and soon I shall pass."<br />
+        <i>Atrributed to the Remembrancer A.K., Circa M31</i>
+        </center>
       </div>
       <div class="creds">
         <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br />

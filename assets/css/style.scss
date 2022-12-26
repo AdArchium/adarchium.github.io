@@ -9,7 +9,7 @@ h1.title {
  font-family: 'Federant', cursive;
  font-weight: bold;
  font-style: unset;
- background: #D1D1D1;
+ color: #D1D1D1;
 }
 
 body {
@@ -27,4 +27,11 @@ body {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
   line-height: 1.5;
+}
+
+.creds {
+  color: #D1D1D1;
+}
+.creds a a:hover {
+  color: #D1D1D1;
 }
