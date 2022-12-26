@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
@@ -14,6 +15,7 @@
   <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
   <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
   <script type="text/javascript" src="{{ site.baseurl }}/assets/js/active_search.js"></script>
+  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/reactive_topbar.js"></script>
 {% seo %}
 
   {% include head-custom.html %}
@@ -29,10 +31,13 @@
       <p class="tagline">A Noosphere Archive for the Age of Darkness</p>
       <div id="main" role="main">
         <div class="download-bar">
-          <div class="navbar">
+          <div class="topnav">
             {% for page in site.data.nav.page_list %}
               <a href="{{ page.url }}">{{ page.title }}</a>
-            {% endfor %}
+            {% endfor %}'
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+              <i class="fa fa-bars"></i>
+            </a>
           </div>
         <span class="blc"></span><span class="trc"></span>
         </div>
