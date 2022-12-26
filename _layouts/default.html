@@ -31,11 +31,11 @@
       <p class="tagline">A Noosphere Archive for the Age of Darkness</p>
       <div id="main" role="main">
         <div class="download-bar">
-          <div class="topnav">
+          <div class="topnav" id="nav">
             {% for page in site.data.nav.page_list %}
               <a href="{{ page.url }}">{{ page.title }}</a>
             {% endfor %}'
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <a href="javascript:void(0);" class="icon" onclick="mobileNav()">
               <i class="fa fa-bars"></i>
             </a>
           </div>
