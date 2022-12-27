@@ -1,10 +1,10 @@
 title:
 page_list:
-  - title: Home 
-    url: "/"
   - title: Rules
     url: "/rules"
   - title: Traits
     url: "/traits"
+  - title: Wargear
+    url: "/wargear"
   - title: Armoury
     url: "/armoury"
