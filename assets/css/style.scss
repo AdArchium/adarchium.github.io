@@ -49,8 +49,7 @@ body {
 }
 
 .topnav a:not(:last-child) {
-  border-right:solid 2px #444;
-  border-style:groove;
+  border-right:groove 2px #444;
 }
 
 /* Navigation links */
@@ -60,7 +59,7 @@ body {
   color: #D1D1D1;
   text-decoration: none;
   font-size: 17px;
-  width: 21.43%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  width: 21.213316%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
   text-align: center; /* If you want the text to be centered */
 }
 
