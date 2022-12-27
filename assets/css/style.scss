@@ -29,11 +29,6 @@ body {
   line-height: 1.5;
 }
 
-.current-section {
-  margin: 0 auto;
-  width: 87.45%;
-}
-
 .creds {
   color: #D1D1D1;
 }
@@ -111,6 +106,12 @@ body {
     width: 85%;
     margin: 0 auto;
   }
+
+  .current-section {
+    margin: 0 -10%;
+    width: 120%;
+  }
+
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
