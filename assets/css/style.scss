@@ -90,10 +90,11 @@ body {
 
 /* When the screen is less than 800 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 800px) {
-  .topnav a {display: none;}
+  .topnav a {
+    display: none;
+    margin: 0 auto;
+  }
   .topnav a.icon {
-    text-align: center;
-    display: flex;
     align-items: center;
     justify-content: center;
     display: block;
@@ -108,16 +109,18 @@ body {
   }
 
   .current-section {
-    margin: 0 -10%;
-    width: 120%;
+    margin: 0 auto;
+    width: 90%;
+    left: 4.25%;
   }
 
   .topnav.responsive {position: relative;}
-  .topnav.responsive a.icon {
+/*  .topnav.responsive a.icon {
     position: absolute;
     right: 0;
     top: 0;
   }
+*/
   .topnav.responsive a {
     float: none;
     display: block;
