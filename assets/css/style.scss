@@ -12,7 +12,7 @@ h1.title {
  color: #D1D1D1;
 }
 
-h1.title a a:hover a:active a:visited {
+h1.title a, h1.title a:hover, h1.title a:active, h1.title a:visited {
   color: #D1D1D1;
   text-decoration: none;
 }
