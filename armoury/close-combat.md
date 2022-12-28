@@ -7,7 +7,10 @@ layout: default
 <input type="search" id="searchbox" >
 
 {% assign sortedProfiles = site.data.closecombat | sort: 'Name' %}
+{% assign groupedProfiles = sortedProfiles | group_by: 'Type' %}
+{% for type_group in groupedProfiles %}
 <div class="card">
+    <h3>{{ group.name }}</h3>
     <table style="width:100%">
         <thead>
             <tr class="header">
@@ -19,7 +22,7 @@ layout: default
             </tr>
         </thead>
         <tbody>
-        {% for profile in sortedProfiles %}
+        {% for profile in type_group %}
             <tr>
                 <td>{{ profile.Name }}</td>
                 <td class="stat">{{ profile.Range }}</td>
@@ -32,3 +35,4 @@ layout: default
     </table>
     <hr>
 </div>
+{% endfor %}
