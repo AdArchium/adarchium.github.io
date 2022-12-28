@@ -164,12 +164,12 @@ tr:nth-child(even) {background-color: #D1D1D1;}
 
   .card {
     overflow: auto;
-    overflow-y: hidden;
+    width: 95vw;
   }
   td {
-    font-size: 6pt;
+    font-size: 0.75em;
   }
   th {
-    font-size: 8pt;
+    font-size: 0.75em;
   }
 }
