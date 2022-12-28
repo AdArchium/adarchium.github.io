@@ -16,7 +16,7 @@ layout: default
             <tr class="table_header">
                 <th style="width:30%">Weapon Name</th>
                 <!--<th>Range</th>-->
-                <th style="width:10%">Strength</th>
+                <th style="width:10%">STR</th>
                 <th style="width:10%">AP</th>
                 <th>Special Rules</th>
             </tr>

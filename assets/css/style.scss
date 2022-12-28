@@ -107,7 +107,7 @@ body {
 th {
   background: white;
   position: sticky;
-  top: 10%; /* Don't forget this, required for the stickiness */
+  top: 95px; /* Don't forget this, required for the stickiness */
   box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
 .table_stat {
@@ -135,12 +135,12 @@ th {
     float: none;
   }
   .wrapper {
-    width: 85%;
+    width: 100%;
     margin: 0 auto;
   }
   .current-section {
     margin: 0 auto;
-    width: 90%;
+    width: 100%;
     left: 4.25%;
   }
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
