@@ -1,0 +1,2576 @@
+Compendium:
+- AP: '3.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Ordnance 1, Large Blast (5"), Rending (4+), Sunder
+  Str: '12.0'
+  Type: Artillery Cannon
+  Name: Dreadhammer Siege Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Rending (6+)
+  Str: '10.0'
+  Type: Artillery Cannon
+  Name: Morbus Bombard
+- AP: '4.0'
+  Legion: GEN
+  Range: 72"
+  Rules: Brutal (4), Destroyer 1, Massive Blast (7"), Rending (6+)
+  Str: '8.0'
+  Type: Artillery Cannon
+  Name: Thunderhawk Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 8, Rending (6+), Exoshock (6+)
+  Str: '7.0'
+  Type: Auto
+  Name: Accelerator Autocannon
+- AP: '4.0'
+  Legion: GEN
+  Range: '48.0'
+  Rules: Heavy 4, Rending (5+), Sunder, Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Anvilus Autocannon Battery
+- AP: '4.0'
+  Legion: GEN
+  Range: '24.0'
+  Rules: Heavy 2, Sunder, Rending (5+), Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Anvilus Snub Cannon
+- AP: None
+  Legion: GEN
+  Range: 12"
+  Rules: Assault 2, Concussive (1)
+  Str: '4.0'
+  Type: Auto
+  Name: Astartes Shotgun
+- AP: '3.0'
+  Legion: GEN
+  Range: 100"
+  Rules: Ordnance 1, Massive Blast (7")
+  Str: '8.0'
+  Type: Auto
+  Name: Fellblade Accelerator Cannon - He Shell
+- AP: '2.0'
+  Legion: GEN
+  Range: 100"
+  Rules: Ordnance 1, Armourbane (ranged), Exoshock (4+), Blast (3")
+  Str: '10.0'
+  Type: Auto
+  Name: Fellblade Accelerator Cannon - Ae Shell
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 4, Rending (6+), Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Gravis Autocannon Battery
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 6, Rending (6+)
+  Str: '6.0'
+  Type: Auto
+  Name: Kheres Assault Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Pinning
+  Str: '8.0'
+  Type: Auto
+  Name: Kratos Battlecannon - He Shells
+- AP: '2.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 2, Sunder
+  Str: '8.0'
+  Type: Auto
+  Name: Kratos Battlecannon - Ap Shells
+- AP: '1.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 1, Armourbane (ranged), Gets Hot
+  Str: '10.0'
+  Type: Auto
+  Name: Kratos Battlecannon - Flashburn Shells
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 6, Rending (5+), Sunder
+  Str: '7.0'
+  Type: Auto
+  Name: Leviathan Storm Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 1, Blast (3"), Twin-linked, Pinning
+  Str: '8.0'
+  Type: Auto
+  Name: Macharius Battlecannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 4, Rending (6+)
+  Str: '8.0'
+  Type: Auto
+  Name: Predator Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Assault 3, Rending (6+)
+  Str: '6.0'
+  Type: Auto
+  Name: Proteus Assault Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 2, Rending (6+), Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Reaper Autocannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 5, Skyfire, Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Skyreaper Battery
+- AP: '3.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 7
+  Str: '6.0'
+  Type: Bolt
+  Name: Avenger Bolt Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 6, Twin-linked
+  Str: '5.0'
+  Type: Bolt
+  Name: Gravis Bolt Cannon
+- AP: '6.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Assault 3, Ignores Cover
+  Str: '3.0'
+  Type: Bolt
+  Name: Kraken Bolter - Tempest Rounds
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Assault 1, Breaching (4+)
+  Str: '5.0'
+  Type: Bolt
+  Name: Kraken Bolter - Scorpius Rounds
+- AP: '2.0'
+  Legion: GEN
+  Range: 12"
+  Rules: Pistol 1, Instant Death, Gets Hot
+  Str: '5.0'
+  Type: Disintergrator
+  Name: Disintegrator Pistol
+- AP: '2.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Rapid Fire, Instant Death, Gets Hot
+  Str: '5.0'
+  Type: Disintergrator
+  Name: Disintegrator
+- AP: '1.0'
+  Legion: GEN
+  Range: 8"
+  Rules: Assault 1, Armourbane (ranged)
+  Str: '10.0'
+  Type: Exotic
+  Name: Lascutter (Ranged)
+- AP: '5.0'
+  Legion: GEN
+  Range: Template
+  Rules: Assault 1, Poisoned (3+), Rending (6+)
+  Str: '4.0'
+  Type: Flame
+  Name: Toxiferran Flamer
+- AP: '4.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Heavy 1, Large Blast (5"), *graviton Collapse, Torsion Crusher, Ignores
+    Cover, Concussive (1)
+  Str: '*'
+  Type: Graviton
+  Name: Grav-Flux Bombard
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Concussive (1), Graviton Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Cannon
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Ordnance 1, Massive Blast (7"), Barrage, Concussive (1), Graviton
+    Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton-Charge Cannon
+- AP: '2.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2, Sunder, Exoshock (5+), Twin-linked
+  Str: '10.0'
+  Type: Las
+  Name: Arachnus Heavy Lascannon Battery
+- AP: '2.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2, Twin-linked, Sunder
+  Str: '9.0'
+  Type: Las
+  Name: Lascannon Array
+- AP: '1.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 1, Concussive (3), Feedback, Shock Pulse, Gets Hot
+  Str: '10.0'
+  Type: Las
+  Name: Neutron Blaster
+- AP: '1.0'
+  Legion: GEN
+  Range: 72"
+  Rules: Heavy 1, Concussive(3), Feedback, Shock Pulse, Gets Hot
+  Str: '10.0'
+  Type: Las
+  Name: Neutron Laser Battery
+- AP: '1.0'
+  Legion: GEN
+  Range: 120"
+  Rules: Destroyer 1, Large Blast (5"), Shock Pulse, Ignores Cover
+  Str: '10.0'
+  Type: Las
+  Name: Neutron-Wave Cannon
+- AP: '2.0'
+  Legion: GEN
+  Range: 96"
+  Rules: Destroyer 1, Large Blast (5"), Ignores Cover
+  Str: '12.0'
+  Type: Las
+  Name: Turbo-Laser Destructor
+- AP: '1.0'
+  Legion: GEN
+  Range: 120"
+  Rules: Destroyer 1, Large Blast (5"), Ignores Cover
+  Str: '14.0'
+  Type: Las
+  Name: Volcano Cannon (Legion Book)
+- AP: '1.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Heavy 3, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Cyclonic Melta Lance
+- AP: '1.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 2, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Gravis Melta Cannon
+- AP: '1.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 3, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Magna-Melta Cannon
+- AP: '1.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 4, Armourbane (melta)
+  Str: '8.0'
+  Type: Melta
+  Name: Melta Blast-Gun
+- AP: '1.0'
+  Legion: GEN
+  Range: 12"
+  Rules: Heavy 5, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Siege Melta Array
+- AP: '5.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 1, Large Blast (5"), Shred
+  Str: '5.0'
+  Type: Missile
+  Name: Achillus Quad Launcher - Shard
+- AP: '4.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Heavy 4, Sunder
+  Str: '8.0'
+  Type: Missile
+  Name: Achillus Quad Launcher - Strike
+- AP: '3.0'
+  Legion: GEN
+  Range: 60"
+  Rules: Heavy 3, Pinning, Guided Fire
+  Str: '6.0'
+  Type: Missile
+  Name: Aiolos Missile Launcher
+- AP: '2.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 5, Twin-linked
+  Str: '8.0'
+  Type: Missile
+  Name: Arcus Missile Launcher - Arcus Warheads
+- AP: '2.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 5, Skyfire, Twin-linked
+  Str: '7.0'
+  Type: Missile
+  Name: Arcus Missile Launcher - Skyspear Warheads
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Ignores Cover, Pinning
+  Str: '5.0'
+  Type: Missile
+  Name: Arcus Missile Launcher - Pyrax Warheads
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 4, Twin-linked, Neutron-flux, Breaching (5+)
+  Str: '7.0'
+  Type: Missile
+  Name: Arcus Missile Launcher - Neutron-Flux Warheads
+- AP: '2.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 1, Skyfire, Guided Fire, One Shot
+  Str: '8.0'
+  Type: Missile
+  Name: Boreas Air Defence System
+- AP: '6.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 1, Large Blast (5"), Pinning
+  Str: '4.0'
+  Type: Missile
+  Name: Cyclone Missile Launcher - Frag
+- AP: '3.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2, Twin-linked
+  Str: '8.0'
+  Type: Missile
+  Name: Cyclone Missile Launcher - Krak
+- AP: '3.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2, Skyfire, Twin-linked
+  Str: '7.0'
+  Type: Missile
+  Name: Cyclone Missile Launcher - Flak
+- AP: '4.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Heavy 9, Pinning, Deathstorm, Limited Ammunition
+  Str: '6.0'
+  Type: Missile
+  Name: Deathstorm Missile Launcher
+- AP: '5.0'
+  Legion: GEN
+  Range: None
+  Rules: Bomb 1, Blast (3"), One Use
+  Str: '5.0'
+  Type: Missile
+  Name: Fragmentation Bomb
+- AP: '6.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 1, Large Blast (5"), Pinning
+  Str: '4.0'
+  Type: Missile
+  Name: Gravis Missile Launcher - Frag
+- AP: '3.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2
+  Str: '8.0'
+  Type: Missile
+  Name: Gravis Missile Launcher - Krak
+- AP: '4.0'
+  Legion: GEN
+  Range: None
+  Rules: Bomb 1, Apocalyptic Barrage (6), One Shot
+  Str: '8.0'
+  Type: Missile
+  Name: Macro-Bomb Cluster
+- AP: '2.0'
+  Legion: GEN
+  Range: 60"
+  Rules: Heavy 3, Exoshock (6+), Ignores Cover, Twin-linked
+  Str: '8.0'
+  Type: Missile
+  Name: Rotary Missile Launcher
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Rending (6+), One Shot
+  Str: '7.0'
+  Type: Missile
+  Name: Sabre Missile
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 1, Barrage, Large Blast (5"), Rocket Barrage
+  Str: '8.0'
+  Type: Missile
+  Name: Scorpius Missile Launcher
+- AP: '4.0'
+  Legion: GEN
+  Range: 72"
+  Rules: Ordnance 1, Massive Blast (7"), Rending (6+), Limited Ammunition
+  Str: '7.0'
+  Type: Missile
+  Name: Spicula Rocket System
+- AP: '4.0'
+  Legion: GEN
+  Range: 60"
+  Rules: Heavy 1, Sunder, One Shot
+  Str: '7.0'
+  Type: Missile
+  Name: Tempest Rocket
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 2, Large Blast (5")
+  Str: '5.0'
+  Type: Missile
+  Name: Vengeance Launcher
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Ordnance 1, Barrage, Large Blast (5")
+  Str: '6.0'
+  Type: Missile
+  Name: Whirlwind Missile Launcher - Talonis He Missile
+- AP: '4.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Ordnance 1, Barrage, Blast (3"), Breaching (4+)
+  Str: '7.0'
+  Type: Missile
+  Name: Whirlwind Missile Launcher - Thermios Ap Missile
+- AP: '3.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Ordnance 1, Twin-linked, Skyfire
+  Str: '7.0'
+  Type: Missile
+  Name: Whirlwind Missile Launcher - Icarios Aa Missile
+- AP: '2.0'
+  Legion: GEN
+  Range: 6"
+  Rules: Assault 1, One Use, Blast (3"), Poisoned (3+), Crawling Fire, Lingering
+    Death
+  Str: '5.0'
+  Type: Phosphex
+  Name: Phosphex Bomb
+- AP: '3.0'
+  Legion: GEN
+  Range: 12"-24"
+  Rules: Heavy 1, Barrage, Blast (3"), Poisoned (3+), Crawling Fire, Lingering
+    Death
+  Str: '4.0'
+  Type: Phosphex
+  Name: Phosphex Canister Shot (Rapier)
+- AP: '2.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Heavy 1, Barrage, Blast (3"), Poisoned (3+), Crawling Fire, Lingering
+    Death
+  Str: '5.0'
+  Type: Phosphex
+  Name: Phosphex Discharger
+- AP: '2.0'
+  Legion: GEN
+  Range: 24"
+  Rules: Ordnance 1, Blast (3"), Poisoned (3+), Crawling Fire, Lingering Death
+  Str: '5.0'
+  Type: Phosphex
+  Name: Phosphex Shell (Arquitor Morbus Bombard)
+- AP: '4.0'
+  Legion: GEN
+  Range: 60"
+  Rules: Heavy 1, Large Blast (5"), Rending (4+)
+  Str: '7.0'
+  Type: Plasma
+  Name: Executioner Plasma Destroyer
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 6, Breaching (4+)
+  Str: '7.0'
+  Type: Plasma
+  Name: Hellfire Plasma Cannonade (Sustained Fire)
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Rending (4+), Gets Hot, Large Blast (5")
+  Str: '8.0'
+  Type: Plasma
+  Name: Hellfire Plasma Cannonade (Maximal Fire)
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Gravis Plasma Cannon
+- AP: '3.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Ordnance 1, Massive Blast (7"), Breaching (4+), Gets Hot
+  Str: '9.0'
+  Type: Plasma
+  Name: Omega Pattern Plasma Blastgun
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 8, Breaching (4+), Twin-linked
+  Str: '7.0'
+  Type: Plasma
+  Name: Omega Plasma Array (Sustained Fire)
+- AP: '4.0'
+  Legion: GEN
+  Range: 36"
+  Rules: Heavy 2, Rending (4+), Gets Hot, Plasma Burn, Twin-linked
+  Str: '9.0'
+  Type: Plasma
+  Name: Omega Plasma Array (Maximal Fire)
+- AP: '4.0'
+  Legion: GEN
+  Range: 18"
+  Rules: Assault 2, Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Plasma Blaster
+- AP: '3.0'
+  Legion: GEN
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Fleshbane, Rad-phage
+  Str: '4.0'
+  Type: Rad
+  Name: Rad Missile (Missile Launcher)
+- AP: '5.0'
+  Legion: GEN
+  Range: 45"
+  Rules: Heavy 12, Deflagrate, Pinning
+  Str: '7.0'
+  Type: Volkite
+  Name: Volkite Cardanelle
+- AP: '3.0'
+  Legion: GEN
+  Range: 45"
+  Rules: Heavy 1, Heavy Beam, Deflagrate
+  Str: '8.0'
+  Type: Volkite
+  Name: Volkite Carronade
+- AP: '5.0'
+  Legion: GEN
+  Range: 45"
+  Rules: Heavy 6, Deflagrate, Twin-linked
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Dual-Culverin
+- AP: '5.0'
+  Legion: GEN
+  Range: 45"
+  Rules: Heavy 8, Deflagrate, Twin-linked, Pinning
+  Str: '7.0'
+  Type: Volkite
+  Name: Volkite Falconet
+- AP: '5.0'
+  Legion: GEN
+  Range: 25"
+  Rules: Heavy 6, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Saker
+- AP: <NA>
+  Legion: LEGION UNIQUE
+  Range: <NA>
+  Rules: <na>
+  Str: <NA>
+  Type: <Na>
+  Name: <Na>
+- AP: '4.0'
+  Legion: IF/BA
+  Range: 24"
+  Rules: Assault 4, Rending (6-+), Malfunction
+  Str: '6.0'
+  Type: Auto
+  Name: Iliastus Pattern Assault Cannon
+- AP: '4.0'
+  Legion: SOH/AL
+  Range: 18"
+  Rules: Rapid Fire, Twin-linked, Breaching (6+)
+  Str: '5.0'
+  Type: Bolt
+  Name: Banestrike Combi-Bolter
+- AP: '4.0'
+  Legion: SOH/AL
+  Range: 18"
+  Rules: Rapid Fire, Breaching (6+)
+  Str: '5.0'
+  Type: Bolt
+  Name: Banestrike Bolter
+- AP: '5.0'
+  Legion: AL
+  Range: 12"
+  Rules: Assault 2, Shred, Breaching (6+), Concussive (1)
+  Str: '4.0'
+  Type: Bolt
+  Name: Banestrike Shotgun
+- AP: None
+  Legion: AL
+  Range: 8"
+  Rules: Assault 6, Poison (3+), One Shot
+  Str: '1.0'
+  Type: Exotic?
+  Name: Venom Spheres
+- AP: None
+  Legion: AL
+  Range: 12"
+  Rules: Assault 1, Hydra's Wail
+  Str: None
+  Type: Exotic?
+  Name: Hydra's Wail Disruption Array
+- AP: '6.0'
+  Legion: BA
+  Range: 12"
+  Rules: Assault 3, Pinning
+  Str: '3.0'
+  Type: Exotic?
+  Name: Grenade Discharger - Frag
+- AP: '4.0'
+  Legion: BA
+  Range: 12"
+  Rules: Assault 1
+  Str: '6.0'
+  Type: Exotic?
+  Name: Grenade Discharger - Krak
+- AP: '4.0'
+  Legion: BA
+  Range: 24"
+  Rules: Assault 3, Rad-phage, Fleshbane
+  Str: '4.0'
+  Type: Rad
+  Name: Angel's Tears Grenade Launcher
+- AP: None
+  Legion: DA
+  Range: 24"
+  Rules: Heavy 1, Blast (3"), Concussive (1)
+  Str: '4.0'
+  Type: Missile
+  Name: Stasis Missile
+- AP: '4.0'
+  Legion: DA
+  Range: Template
+  Rules: Assault 1, Breaching (4+)
+  Str: '6.0'
+  Type: Plasma
+  Name: Plasma Burner
+- AP: '4.0'
+  Legion: DA
+  Range: Template
+  Rules: Assault 1, Breaching (4+), Torrent (9")
+  Str: '6.0'
+  Type: Plasma
+  Name: Plasma Incinerator
+- AP: '2.0'
+  Legion: DA
+  Range: 18"
+  Rules: Heavy 1, Blast (3"), Barrage, Poisoned (3+), Crawling Fire, Lingering
+    Death
+  Str: '5.0'
+  Type: Relic
+  Name: Athanax Pattern Phosphex Canister Launcher
+- AP: '4.0'
+  Legion: DA
+  Range: Template
+  Rules: Heavy 1, *graviton Collapse, Torsion Crusher, Ignores Cover, Concussive
+    (1)
+  Str: '*'
+  Type: Relic
+  Name: Cytheron Pattern Graviton Flux Projector
+- AP: '2.0'
+  Legion: DA
+  Range: 24"
+  Rules: Heavy 2, Lance, Shock Pulse
+  Str: '8.0'
+  Type: Relic
+  Name: Magaron Pattern Atomantic Pulse Cannon
+- AP: '4.0'
+  Legion: DA
+  Range: 24"
+  Rules: Heavy 8, Poisoned (4+), Breaching (4+), Pinning
+  Str: '1.0'
+  Type: Relic
+  Name: Tyrhenius Pattern Nerve Induction Shredder
+- AP: '4.0'
+  Legion: DG
+  Range: 18"
+  Rules: Assault 2
+  Str: '6.0'
+  Type: Exotic?
+  Name: Assault Grenade Launcher - Krak
+- AP: '5.0'
+  Legion: DG
+  Range: 18"
+  Rules: Assault 4, Poisoned (3+), Ignores Cover
+  Str: '1.0'
+  Type: Exotic?
+  Name: Assault Grenade Launcher - Toxin
+- AP: '4.0'
+  Legion: DG
+  Range: Template
+  Rules: Assault 1, Poisoned (3+)
+  Str: '1.0'
+  Type: Exotic?
+  Name: Death Cloud Projector
+- AP: '4.0'
+  Legion: DG
+  Range: Template
+  Rules: Heavy 1, Torrent (18"), Fleshbane, Gets Hot
+  Str: '6.0'
+  Type: Flame
+  Name: Alchem Cannon
+- AP: '5.0'
+  Legion: DG
+  Range: Template
+  Rules: Assault 1, Fleshbane, Gets Hot
+  Str: '4.0'
+  Type: Flame
+  Name: Alchem Combi-Flamer (Secondary)
+- AP: '5.0'
+  Legion: DG
+  Range: Template
+  Rules: Assault 1, Fleshbane, Gets Hot
+  Str: '4.0'
+  Type: Flame
+  Name: Alchem Flamer
+- AP: None
+  Legion: DG
+  Range: Template
+  Rules: Pistol 1, Fleshbane, Gets Hot
+  Str: '3.0'
+  Type: Flame
+  Name: Alchem Pistol
+- AP: '4.0'
+  Legion: DG
+  Range: Template
+  Rules: Assault 1, Fleshbane, Gets Hot
+  Str: '5.0'
+  Type: Flame
+  Name: Heavy Alchem Flamer
+- AP: '5.0'
+  Legion: EC
+  Range: 36"
+  Rules: Assault 3, Gets Hot, Pinning, Shell Shock (1), Deflagrate
+  Str: '6.0'
+  Type: Exotic?
+  Name: Cacophony
+- AP: None
+  Legion: EC
+  Range: Template
+  Rules: Assault 1, Breaching (6+), Pinning
+  Str: '2.0'
+  Type: Exotic?
+  Name: Sonic Lance
+- AP: '4.0'
+  Legion: IH
+  Range: 12"
+  Rules: Pistol 1, Concussive (1), Graviton Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Pistol
+- AP: '4.0'
+  Legion: IH
+  Range: 12"
+  Rules: Assault 2, Concussive (1), Graviton Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Shredder
+- AP: None
+  Legion: IW
+  Range: 18"
+  Rules: Rapid Fire, Pinning
+  Str: '4.0'
+  Type: Bolt
+  Name: Shrapnel Bolter
+- AP: '6.0'
+  Legion: IW
+  Range: 24"
+  Rules: Heavy 4, Pinning
+  Str: '5.0'
+  Type: Bolt
+  Name: Shrapnel Cannon
+- AP: None
+  Legion: IW
+  Range: 10"
+  Rules: Pistol 1, Pinning
+  Str: '4.0'
+  Type: Bolt
+  Name: Shrapnel Pistol
+- AP: '6.0'
+  Legion: IW
+  Range: 36"
+  Rules: Heavy 5, Twin-linked, Pinning
+  Str: '5.0'
+  Type: Bolt
+  Name: Gravis Shrapnel Cannon
+- AP: '6.0'
+  Legion: IW
+  Range: 48"
+  Rules: Heavy 4, Pinning
+  Str: '4.0'
+  Type: Missile
+  Name: Tyrant Rocket Launcher -Frag
+- AP: '3.0'
+  Legion: IW
+  Range: 48"
+  Rules: Heavy 2
+  Str: '8.0'
+  Type: Missile
+  Name: Tyrant Rocket Launcher -Krak
+- AP: '3.0'
+  Legion: IW
+  Range: 48"
+  Rules: Heavy 2, Skyfire
+  Str: '7.0'
+  Type: Missile
+  Name: Tyrant Rocket Launcher -Flak
+- AP: '5.0'
+  Legion: NL
+  Range: 10"
+  Rules: Heavy 4, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Cavitor
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Assault 1, Dragon's Breath
+  Str: '5.0'
+  Type: Combi
+  Name: Dragon's Breath Flamer (Secondary)
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Heavy 1, Torrent (18"), Dragon's Breath
+  Str: '7.0'
+  Type: Flame
+  Name: Dragon's Breath Cannon
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Assault 1, Dragon's Breath
+  Str: '5.0'
+  Type: Flame
+  Name: Dragon's Breath Flamer
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Assault 1, Dragon's Breath
+  Str: '6.0'
+  Type: Flame
+  Name: Dragon's Breath Heavy Flamer
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Pistol 1, Dragon's Breath
+  Str: '4.0'
+  Type: Flame
+  Name: Dragon's Breath Pistol
+- AP: '4.0'
+  Legion: SAL
+  Range: Template
+  Rules: Assault 1, Dragon's Breath
+  Str: '6.0'
+  Type: Flame & Melta
+  Name: Pyroclast Flame Projector - Dispersed
+- AP: '1.0'
+  Legion: SAL
+  Range: 12"
+  Rules: Assault 1, Armourbane (melta)
+  Str: '8.0'
+  Type: Flame & Melta
+  Name: Pyroclast Flame Projector - Focussed
+- AP: '4.0'
+  Legion: TS
+  Range: 24"
+  Rules: Heavy 4, Shred
+  Str: '6.0'
+  Type: Bolt
+  Name: Asphyx Bolt Cannon
+- AP: '5.0'
+  Legion: TS
+  Range: 8"
+  Rules: Pistol 1, Shred
+  Str: '4.0'
+  Type: Bolt
+  Name: Asphyx Bolt Pistol
+- AP: '5.0'
+  Legion: TS
+  Range: I8"
+  Rules: Rapid Fire, Shred
+  Str: '4.0'
+  Type: Bolt
+  Name: Asphyx Bolter
+- AP: '4.0'
+  Legion: TS
+  Range: I8"
+  Rules: Assault 2, Rending (6+), Achean Force
+  Str: '6.0'
+  Type: Plasma & Force
+  Name: "\xC6Ther-Fire Blaster"
+- AP: '4.0'
+  Legion: TS
+  Range: 24"
+  Rules: Heavy 1, Blast (3"), Rending (6+), Achean Force
+  Str: '6.0'
+  Type: Plasma & Force
+  Name: "\xC6Ther-Fire Cannon"
+- AP: '4.0'
+  Legion: TS
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Rending (6+), Achean Force
+  Str: '6.0'
+  Type: Plasma & Force
+  Name: "\xC6Ther-Fire Magna-Cannon"
+- AP: '4.0'
+  Legion: TS
+  Range: I0"
+  Rules: Pistol 1, Rending (6+), Achean Force
+  Str: '6.0'
+  Type: Plasma & Force
+  Name: "\xC6Ther-Fire Pistol"
+- AP: '5.0'
+  Legion: UM
+  Range: 18"
+  Rules: Assault 2, Harrower
+  Str: '4.0'
+  Type: Bolt?
+  Name: Mortifer Bolter
+- AP: '5.0'
+  Legion: UM
+  Range: 36"
+  Rules: Heavy 4, Breaching (6+), Pinning
+  Str: '5.0'
+  Type: Missile
+  Name: Fulmentarus Missile Array - Splinter Missiles
+- AP: '2.0'
+  Legion: UM
+  Range: 24"
+  Rules: Heavy 1, Brutal (2)
+  Str: '8.0'
+  Type: Missile
+  Name: Fulmentarus Missile Array - Hellfire Plasma Missiles
+- AP: '5.0'
+  Legion: WB
+  Range: 24"
+  Rules: Rapid Fire
+  Str: '4.0'
+  Type: Bolt
+  Name: Boltspitter
+- AP: '4.0'
+  Legion: WB
+  Range: 48"
+  Rules: Heavy 6, Twin-linked
+  Str: '5.0'
+  Type: Bolt
+  Name: Greater Boltspitter
+- AP: '4.0'
+  Legion: WB
+  Range: Template
+  Rules: Assault 1, Torrent (6"), Pinning
+  Str: '4.0'
+  Type: Flame
+  Name: Akkadic Hand Flamer
+- AP: '4.0'
+  Legion: WB
+  Range: 24"
+  Rules: Assault 2, Breaching (4+), Pinning
+  Str: '6.0'
+  Type: Plasma
+  Name: Warpfire Blaster
+- AP: '4.0'
+  Legion: WB
+  Range: 36"
+  Rules: Heavy 1, Blast (3"), Breaching (4+), Pinning
+  Str: '6.0'
+  Type: Plasma
+  Name: Warpfire Cannon
+- AP: '4.0'
+  Legion: WB
+  Range: 12"
+  Rules: Pistol 1, Breaching (4+), Pinning
+  Str: '6.0'
+  Type: Plasma
+  Name: Warpfire Pistol
+- AP: '4.0'
+  Legion: WS
+  Range: Template
+  Rules: Assault 1, Shred, Pinning
+  Str: '5.0'
+  Type: Bolt
+  Name: Scatterbolt Launcher
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 12'
+  Rules: Pistol, Disruption (6+)
+  Str: '6.0'
+  Type: Arc/Lightning
+  Name: Arc Pistol
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 30"
+  Rules: Rapid Fire, Disruption (6+)
+  Str: '6.0'
+  Type: Arc/Lightning
+  Name: Arc Rifle
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 4, Shred, Disruption (4+)
+  Str: '6.0'
+  Type: Arc/Lightning
+  Name: Arc Blaster
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Assault 1, Disruption (6+)
+  Str: '6.0'
+  Type: Arc/Lightning
+  Name: Arc Lance (Ranged)
+- AP: None
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Heavy 3, Shred
+  Str: '4.0'
+  Type: Arc/Lightning
+  Name: Lightning Gun (Arc)
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Heavy 1, Rending (4+), Shred
+  Str: '7.0'
+  Type: Arc/Lightning
+  Name: Lightning Gun (Strike)
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 1, Blast (3"), Rending (4+), Shred, Exoshock (4+)
+  Str: '7.0'
+  Type: Arc/Lightning
+  Name: Lightning Lock
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Rending (4+), Shred,exoshock (4+)
+  Str: '7.0'
+  Type: Arc/Lightning
+  Name: Lightning Cannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Ordnance 2, Large Blast (5")
+  Str: '8.0'
+  Type: Artillery Cannon
+  Name: Rapid-Fire Battle Cannon
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 24"-360"
+  Rules: Destroyer 1, Apocalyptic Mega-blast, Barrage, Seismic Shock, Concussive
+    (1)
+  Str: 10 / 8 / 6
+  Type: Artillery Cannon
+  Name: Mori Quake Cannon
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 24"-480"
+  Rules: Destroyer 1, Apocalyptic Mega-blast, Barrage, Seismic Shock, Concussive
+    (1)
+  Str: 10 / 8 / 6
+  Type: Artillery Cannon
+  Name: Nemesis Quake Cannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Assault 2
+  Str: '6.0'
+  Type: Auto
+  Name: Light Autocannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 2, Rending (6+), Skyfire
+  Str: '7.0'
+  Type: Auto
+  Name: Icarus Autocannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 72"
+  Rules: Heavy 4, Rending (6+), Twin-linked, Sunder, Skyfire
+  Str: '7.0'
+  Type: Auto
+  Name: Defensor Autocannon Battery
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 64"
+  Rules: Heavy 2, Sunder, Rending (6+)
+  Str: '7.0'
+  Type: Auto
+  Name: Phaeton Autocannon - Ap Rounds
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 64"
+  Rules: Heavy 2, Ignores Cover, Rending (6+)
+  Str: '7.0'
+  Type: Auto
+  Name: Phaeton Autocannon - Ignis Rounds
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 12, Rending (6+)
+  Str: '6.0'
+  Type: Auto
+  Name: Avenger Gatling Cannon
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 60"
+  Rules: Destroyer 2, Apocalyptic Blast (10"), Pinning, Shell Shock (1)
+  Str: '8.0'
+  Type: Auto
+  Name: Gatling Blaster
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 72"
+  Rules: Destroyer 3, Massive Blast (7"), Pinning, Shell Shock (1)
+  Str: '10.0'
+  Type: Auto
+  Name: Macro-Gatling Blaster
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Assault 3
+  Str: '4.0'
+  Type: Bolt
+  Name: Maxima Bolter
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 30"
+  Rules: Rapid Fire
+  Str: '4.0'
+  Type: Bolt
+  Name: Kraken Bolter
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 4, Pinning
+  Str: '6.0'
+  Type: Bolt
+  Name: Mauler Bolt Cannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 6, Ardex-defensor
+  Str: '6.0'
+  Type: Bolt
+  Name: Defensor Bolt Cannon
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 18, Pinning, Shell Shock (1), Twin-linked
+  Str: '6.0'
+  Type: Bolt
+  Name: Castigator Bolt Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: More than 42"-72"
+  Rules: Heavy 1, Blast (3"), Blind
+  Str: '10.0'
+  Type: Converstion
+  Name: Conversion Beam
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: More than 42"-72"
+  Rules: Heavy 1, Blast (3"), Blind
+  Str: '12.0'
+  Type: Converstion
+  Name: Conversion Beam Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: More than 42"-72"
+  Rules: Heavy 1, Large Blast (5"), Blind
+  Str: '12.0'
+  Type: Converstion
+  Name: Heavy Conversion Beam Cannon
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Heavy 2, Sunder, Instant Death
+  Str: '10.0'
+  Type: Cutting
+  Name: Las-Impulsor (Ranged)
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Ordnance 1
+  Str: '10.0'
+  Type: Cutting
+  Name: Atrapos Phasecutter (Ranged)
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Hellstorm
+  Rules: Ordnance 1, Shred
+  Str: '7.0'
+  Type: Flame
+  Name: Acheron Flamestorm Cannon
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: Hellstorm
+  Rules: Destroyer 1, Torrent (24")
+  Str: '7.0'
+  Type: Flame
+  Name: Inferno Gun
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Template
+  Rules: Heavy 1, Torrent (18")
+  Str: '6.0'
+  Type: Flame
+  Name: Flamestorm Cannon
+- AP: '6.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Rapid Fire, Shred
+  Str: '3.0'
+  Type: Galvanic
+  Name: Galvanic Caster - Flechette
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Assault 2, Blind, Ignores Cover
+  Str: '2.0'
+  Type: Galvanic
+  Name: Galvanic Caster - Ignis
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 30"
+  Rules: Assault 1, Molecular Dissonance
+  Str: '4.0'
+  Type: Galvanic
+  Name: Galvanic Caster - Hammershot
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Heavy 1, Blast (3"), Concussive (1), Graviton Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Gun
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Heavy 2, Graviton Pulse*, Concussive (1), Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Imploder
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 2, Blast (3"), Concussive (1), Graviton Pulse*, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Pulsar
+- AP: '6.0'
+  Legion: MECHANICUM
+  Range: Template
+  Rules: Heavy 1, Concussive (1), Graviton Pulse*, Grav Wave, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Hammer (Ranged)
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: Template
+  Rules: Heavy 1, Concussive (1), Graviton Pulse*, Grav Wave, Haywire
+  Str: '*'
+  Type: Graviton
+  Name: Graviton Ram (Ranged)
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Haywire, Concussive (1), Graviton Singularity
+  Str: '8.0'
+  Type: Graviton
+  Name: Singularity Cannon
+- AP: '6.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Assault 2
+  Str: '4.0'
+  Type: Las / Photon / Pulsar
+  Name: Las-Lock
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Assault 2, Blind, Gets Hot
+  Str: '5.0'
+  Type: Las / Photon / Pulsar
+  Name: Photon Gauntlet
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Assault 2, Blind, Lance, Gets Hot
+  Str: '6.0'
+  Type: Las / Photon / Pulsar
+  Name: Photon Thruster
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 2, Blind, Lance, Gets Hot
+  Str: '7.0'
+  Type: Las / Photon / Pulsar
+  Name: Darkfire Cannon
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 1, Ardex-defensor, Sunder, Twin-linked
+  Str: '9.0'
+  Type: Las / Photon / Pulsar
+  Name: Defensor Lascannon
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Ordnance 4, Pinning
+  Str: '9.0'
+  Type: Las / Photon / Pulsar
+  Name: Pulsar-Fusil
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 72"
+  Rules: Ordnance 2, Large Blast (5")
+  Str: '10.0'
+  Type: Las / Photon / Pulsar
+  Name: Magna Lascannon
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 3, Armourbane (ranged), Shock Pulse
+  Str: '10.0'
+  Type: Las / Photon / Pulsar
+  Name: Sollex Heavy-Las
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 96"
+  Rules: Destroyer 1, Large Blast (5"), Ignores Cover
+  Str: '12.0'
+  Type: Las / Photon / Pulsar
+  Name: Turbo Laser Destructor
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 96"
+  Rules: Destroyer 1, Large Blast (5")
+  Str: '10.0'
+  Type: Las / Photon / Pulsar
+  Name: Laser Blaster
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 120"
+  Rules: Destroyer 1, Large Blast (5"), Ignores Cover
+  Str: '14.0'
+  Type: Las / Photon / Pulsar
+  Name: Volcano Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 120"
+  Rules: Destroyer 1, Apocalyptic Blast (10"), Sunder
+  Str: '14.0'
+  Type: Las / Photon / Pulsar
+  Name: Belicosa Volcano Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 36"-180"
+  Rules: Destroyer 1, Apocalyptic Blast (10"), Sunder
+  Str: '14.0'
+  Type: Las / Photon / Pulsar
+  Name: Nemesis Volcano Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Ordnance (3), Twin-linked, Exoshock (6+)
+  Str: '9.0'
+  Type: Las / Photon / Pulsar
+  Name: Magna Laser Destroyer
+- AP: '6.0'
+  Legion: MECHANICUM
+  Range: 8"
+  Rules: Assault 2, Shred
+  Str: '4.0'
+  Type: Las / Photon / Pulsar
+  Name: Mitra-Lock
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 2, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Thermal Lance
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 1, Large Blast (5"), Armourbane (melta)
+  Str: '8.0'
+  Type: Melta
+  Name: Thermal Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 60"
+  Rules: Heavy 1, Massive Blast (7"), Armourbane (melta)
+  Str: '10.0'
+  Type: Melta
+  Name: Melta Cannon
+- AP: '1.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 4, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Melta Cannon Array
+- AP: '6.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Ignores Cover
+  Str: '5.0'
+  Type: Missile
+  Name: Missile Launcher - Ignis
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Twin-linked
+  Str: '5.0'
+  Type: Missile
+  Name: Havoc Launcher
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 4, Skyfire, Twin-linked
+  Str: '8.0'
+  Type: Missile
+  Name: Whirlwind Launcher - Hyperios Warhead
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Ordnance 1, Large Blast (5")
+  Str: '5.0'
+  Type: Missile
+  Name: Ironstorm Missile Pod
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 3
+  Str: '8.0'
+  Type: Missile
+  Name: Stormspear Rocket Pod
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 60"
+  Rules: Heavy 1, Massive Blast (7"), Barrage, Fleshbane, Rad-phage, Ignores
+    Cover, Pinning, Shell Shock (3), Crawling Fire
+  Str: '6.0'
+  Type: Missile
+  Name: Karacnos Mortar Battery
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 24"-360"
+  Rules: Destroyer 2, Apocalyptic Barrage
+  Str: '7.0'
+  Type: Missile
+  Name: Apocalypse Missile Launcher
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Heavy 12
+  Str: '7.0'
+  Type: Missile
+  Name: Terrebrax Rocket Battery
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Ordnance 1, Barrage, Large Blast (5")
+  Str: '6.0'
+  Type: Missile
+  Name: Talonis He Missile
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Ordnance 1, Barrage, Blast (3"), Breaching (4+)
+  Str: '7.0'
+  Type: Missile
+  Name: Thermios Ap Missile
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 48"
+  Rules: Ordnance 1, Twin-linked, Skyfire
+  Str: '7.0'
+  Type: Missile
+  Name: Icarios Aa Missile
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 12"-72"
+  Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Ignores Cover
+  Str: '7.0'
+  Type: Missile?
+  Name: Mars-Colossus Bombard
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Heavy 1, Blast (3"), Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Plasma Cannon
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 24"
+  Rules: Heavy 3, Breaching (4+), Gets Hot
+  Str: '6.0'
+  Type: Plasma
+  Name: Phased Plasma-Fusil
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 36"
+  Rules: Ordnance 1, Large Blast (5"), Breaching (4+), Ignores Cover, Reactor
+    Overload
+  Str: '8.0'
+  Type: Plasma
+  Name: Plasma Mortar
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 72"
+  Rules: Destroyer 2, Apocalyptic Barrage, Ignores Cover, Reactor Overload
+  Str: '9.0'
+  Type: Plasma
+  Name: Sunfury Plasma Annihilator
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 8"
+  Rules: Pistol 1, Fleshbane, Rad-phage
+  Str: '2.0'
+  Type: Rad / Irradiation
+  Name: Lucifex
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: Template
+  Rules: Assault 1, Fleshbane, Rad-phage
+  Str: '2.0'
+  Type: Rad / Irradiation
+  Name: Irad-Cleanser
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: Template
+  Rules: Heavy 1, Fleshbane, Rad-phage, Torrent (12")
+  Str: '4.0'
+  Type: Rad / Irradiation
+  Name: Irradiation Engine
+- AP: None
+  Legion: MECHANICUM
+  Range: 12"
+  Rules: Pistol 1, Brutal (2)
+  Str: '3.0'
+  Type: Rad / Irradiation
+  Name: Radium Pistol
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Assault 3, Brutal (2)
+  Str: '3.0'
+  Type: Rad / Irradiation
+  Name: Radium Carbine
+- AP: '5.0'
+  Legion: MECHANICUM
+  Range: 10"
+  Rules: Assault 2, Deflagrate
+  Str: '5.0'
+  Type: Volkite
+  Name: Volkite Incinerator (Ranged)
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 30"
+  Rules: Heavy 5, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Veuglaire
+- AP: '4.0'
+  Legion: MECHANICUM
+  Range: 45"
+  Rules: Heavy 5, Deflagrate
+  Str: '8.0'
+  Type: Volkite
+  Name: Volkite Chieorovile
+- AP: '2.0'
+  Legion: MECHANICUM
+  Range: 72"
+  Rules: Destroyer 1, Large Blast (5"), Sonic Wave, Pinning, Armourbane (ranged),
+    Murderous Strike (5+), Ignores Cover
+  Str: '6.0'
+  Type: Exotic / Misc
+  Name: Sonic Destructor
+- AP: '3.0'
+  Legion: MECHANICUM
+  Range: 18"
+  Rules: Heavy 6, Concussive (2)
+  Str: '7.0'
+  Type: Exotic / Misc
+  Name: Shock Lance (Ranged)
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 1, Instant Death, Armourbane (ranged), Gets Hot
+  Str: '5.0'
+  Type: Adrathic
+  Name: Adrathic Destructor
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Heavy 2, Instant Death, Armourbane (ranged), Gets Hot
+  Str: '6.0'
+  Type: Adrathic
+  Name: Adrathic Devastator
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Pistol 1, Rending (3+), Master-crafted
+  Str: '6.0'
+  Type: Archaotech
+  Name: Archaeotech Pistol
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Pistol 3, Rending (6+)
+  Str: '7.0'
+  Type: Archaotech
+  Name: Kinetic Destroyer
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Ordnance 1, Blast (3"), Sunder, Rending (6+), Brutal (3)
+  Str: '12.0'
+  Type: Artillery Cannon
+  Name: Demolisher Cannon
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 12"-60"
+  Rules: Heavy 1, Barrage, Large Blast (5"), Shred
+  Str: '5.0'
+  Type: Artillery Cannon
+  Name: Quad Launcher - Frag
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 4, Sunder
+  Str: '8.0'
+  Type: Artillery Cannon
+  Name: Quad Launcher - Shatter
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 12"-60"
+  Rules: Heavy 1, Barrage, Large Blast (5"), Ignores Cover, Pinning, Shred
+  Str: '4.0'
+  Type: Artillery Cannon
+  Name: Quad Launcher - Incendiary
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 12"-36"
+  Rules: Heavy 1, Barrage, Large Blast (5"), Rending (6+), Pinning, Shell
+    Shock (1)
+  Str: '2.0'
+  Type: Artillery Cannon
+  Name: Quad Launcher - Splinter
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 240"
+  Rules: Ordnance 1, Barrage, Large Blast (5"), Shed, Pinning
+  Str: '9.0'
+  Type: Artillery Cannon
+  Name: Earthshaker Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Rending (6+)
+  Str: '9.0'
+  Type: Artillery Cannon
+  Name: Medusa Mortar
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 2, Rending (6+)
+  Str: '7.0'
+  Type: Auto
+  Name: Autocannon
+- AP: None
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire
+  Str: '3.0'
+  Type: Auto
+  Name: Autorifle
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Pinning
+  Str: '8.0'
+  Type: Auto
+  Name: Battle Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 3, Rending (6+), Twin-linked
+  Str: '7.0'
+  Type: Auto
+  Name: Gravis Autocannon
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 3
+  Str: '4.0'
+  Type: Auto
+  Name: Heavy Stubber
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 6, Pinning
+  Str: '7.0'
+  Type: Auto
+  Name: Helion Heavy Cannon Array
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 3, Rending (6+), Brutal 2, Twin-linked
+  Str: '8.0'
+  Type: Auto
+  Name: Iliastus Accelorator Cannon
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 4, Rending (6+), Brutal 2
+  Str: '8.0'
+  Type: Auto
+  Name: Iliastus Accelorator Culverin
+- AP: None
+  Legion: IMPERIUM
+  Range: 30"
+  Rules: Assault 4, Pinning, Shell Shock (1)
+  Str: '3.0'
+  Type: Auto
+  Name: Rotor Cannon
+- AP: None
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 2, Concussive (1)
+  Str: '3.0'
+  Type: Auto
+  Name: Shotgun
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Ordnance 1, Massive Blast (7")
+  Str: '8.0'
+  Type: Auto
+  Name: Stormhammer Cannon
+- AP: None
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 3
+  Str: '3.0'
+  Type: Auto
+  Name: Stubcarbine
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Heavy 2, Sunder, Brutal (2)
+  Str: '9.0'
+  Type: Auto
+  Name: Vanquisher Battle Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 1, Blast (3"), Twin-linked, Pinning
+  Str: '8.0'
+  Type: Auto
+  Name: Macharius Battle Cannon
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 2, Sunder, Brutal (2), Twin-linked
+  Str: '9.0'
+  Type: Auto
+  Name: Macharius Vanquisher Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Ordnance 1, Large Blast (5"), Rending (6+), Pinning
+  Str: '8.0'
+  Type: Auto
+  Name: Baneblade Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Ordnance 1, Massive Blast (7"), Pinning, Shell Shock (2)
+  Str: '8.0'
+  Type: Auto
+  Name: Tremor Cannon
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Ordnance 1, Large Blast (5"), Sunder Rending (5+), Brutal (3)
+  Str: '12.0'
+  Type: Auto
+  Name: Hellhammer Cannon
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire
+  Str: '4.0'
+  Type: Bolt
+  Name: Bolter
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Rapid Fire, Psy-shock
+  Str: '4.0'
+  Type: Bolt
+  Name: Vratine Bolter
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire, Twin-linked
+  Str: '4.0'
+  Type: Bolt
+  Name: Combi-Bolter
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Heavy 1, Rending (5+), Sniper, Pinning
+  Str: '5.0'
+  Type: Bolt
+  Name: Nemesis Bolter
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 52"
+  Rules: Heavy 1, Rending (5+), Sniper, Pinning, Psy-shock
+  Str: '4.0'
+  Type: Bolt
+  Name: Vratine Nemesis Bolter
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 4
+  Str: '5.0'
+  Type: Bolt
+  Name: Heavy Bolter
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 8, Twin-linked
+  Str: '5.0'
+  Type: Bolt
+  Name: Gravis Heavy Bolter Battery
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 3, Shred
+  Str: '5.0'
+  Type: Bolt
+  Name: Lastrum Storm Bolter
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 4, Shred
+  Str: '6.0'
+  Type: Bolt
+  Name: Lastrum Bolt Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 8, Shred
+  Str: '6.0'
+  Type: Bolt
+  Name: Twin Lastrum Bolt Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 10, Breaching (6+), Pinning, Twin-linked
+  Str: '6.0'
+  Type: Bolt
+  Name: Macharius Rotary Bolt Cannon
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 60"
+  Rules: Heavy 15, Pinning, Shell Shock (1)
+  Str: '6.0'
+  Type: Bolt
+  Name: Vulcan Mega-Bolter
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 8, Pinning
+  Str: '6.0'
+  Type: Bolt/Missile
+  Name: Spiculus Bolt Launcher
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 12, Pinning
+  Str: '6.0'
+  Type: Bolt/Missile
+  Name: Spiculus Heavy Bolt Launcher
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire
+  Str: '4.0'
+  Type: Combi
+  Name: Bolter (Primary)
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Assault 1
+  Str: '4.0'
+  Type: Combi
+  Name: Flamer (Secondary)
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 1, Armourbane (melta), One Shot
+  Str: '8.0'
+  Type: Combi
+  Name: Meltagun (Secondary)
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire, Breaching (4+), Gets Hot, One Shot
+  Str: '7.0'
+  Type: Combi
+  Name: Plasma Gun(Secondary)
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 15"
+  Rules: Assault 2, Deflagrate
+  Str: '5.0'
+  Type: Combi
+  Name: Volkite Charger (Secondary)
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire, Instant Death, Gets Hot, One Shot
+  Str: '5.0'
+  Type: Combi
+  Name: Disintegrator (Secondary)
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Blast (3"), Pinning
+  Str: '3.0'
+  Type: Combi
+  Name: Grenade Launcher (Secondary) - Frag
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1
+  Str: '5.0'
+  Type: Combi
+  Name: Grenade Launcher (Secondary) - Krak
+- AP: None
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Blast (3"), Psy-shock
+  Str: '4.0'
+  Type: Combi
+  Name: Grenade Launcher (Secondary) - Psyk-Out
+- AP: None
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 3, Entangle (1)
+  Str: '5.0'
+  Type: Combi
+  Name: Grenade Launcher (Secondary) - Snare Gun (Secondary)
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Assault 4
+  Str: '5.0'
+  Type: Exotic
+  Name: Adrastus Bolt Caliver (Bolt Volley)
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Instant Death, Gets Hot, One Shot
+  Str: '5.0'
+  Type: Exotic
+  Name: Adrastus Bolt Caliver (Disintegrator)
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Blast (3"), Pinning
+  Str: '3.0'
+  Type: Exotic
+  Name: Grenade Launcher - Frag
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1
+  Str: '5.0'
+  Type: Exotic
+  Name: Grenade Launcher - Krak
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Pistol 1, Deflagrate
+  Str: '3.0'
+  Type: Exotic
+  Name: Exoricare
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Assault 1
+  Str: '4.0'
+  Type: Flame
+  Name: Flamer
+- AP: None
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Pistol 1
+  Str: '3.0'
+  Type: Flame
+  Name: Hand Flamer
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Assault 1
+  Str: '5.0'
+  Type: Flame
+  Name: Heavy Flamer
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Heavy 1
+  Str: '6.0'
+  Type: Flame
+  Name: Infernus Incinerator
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Heavy 1, Torrent (9")
+  Str: '6.0'
+  Type: Flame
+  Name: Infernus Firepike
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: Bomb
+  Rules: Heavy 1, Massive Blast (7"), Ignores Cover
+  Str: '6.0'
+  Type: Flame
+  Name: Infernus Firebomb Clusters
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: Helstorm
+  Rules: Ordnance 1, Torrent (9"), Breaching (6+), Concussive (1)
+  Str: '8.0'
+  Type: Flame
+  Name: Infernus Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 2, Shred
+  Str: '4.0'
+  Type: Guardian
+  Name: Guardian Spear
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 2, Shred
+  Str: '4.0'
+  Type: Guardian
+  Name: Guardian Axe
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 2, Shred
+  Str: '4.0'
+  Type: Guardian
+  Name: Sentinal Warblade
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 6"
+  Rules: Assault 1, Armourbane (melta)
+  Str: '8.0'
+  Type: Guardian
+  Name: Pyrithite Spear
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 1, Instant Death, Armourbane (ranged), Gets Hot
+  Str: '5.0'
+  Type: Guardian
+  Name: Adrasite Spear
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 2, Shred
+  Str: '5.0'
+  Type: Guardian
+  Name: Paragon Glaive
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 3, Rending (6+)
+  Str: '7.0'
+  Type: Guardian
+  Name: Venatari Lance
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Sunder
+  Str: '9.0'
+  Type: Las
+  Name: Lascannon
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 2, Sunder
+  Str: '9.0'
+  Type: Las
+  Name: Gravis Lascannon
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 3
+  Str: '6.0'
+  Type: Las
+  Name: Multi-Laser
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Ordnance 2, Twin-linked, Exoshock (6+)
+  Str: '9.0'
+  Type: Las
+  Name: Laser Destroyer
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 3
+  Str: '9.0'
+  Type: Las
+  Name: Corvae Las-Pulser
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Heavy 2, Lance, Exoshock (6+)
+  Str: '8.0'
+  Type: Las
+  Name: Arachnus Blaze Cannon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 4, Lance, Exoshock (6+)
+  Str: '9.0'
+  Type: Las
+  Name: Enhanced Arachnus Blaze Cannon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 2, Lance, Exoshock (6+)
+  Str: '9.0'
+  Type: Las
+  Name: Arachnus Heavy Blaze Cannon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Destroyer 2, Lance, Exoshock (4+)
+  Str: '10.0'
+  Type: Las
+  Name: Arachnus Magna-Blaze Cannon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Heavy 3, Lance, Exoshock (6+)
+  Str: '8.0'
+  Type: Las
+  Name: Arachnus Storm Cannon
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Ordnance 2, Concussive (3), Shock Pulse, Gets Hot
+  Str: '10.0'
+  Type: Las
+  Name: Neutron Beam Laser
+- AP: None
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire
+  Str: '3.0'
+  Type: Las
+  Name: Lasgun
+- AP: None
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Pistol 1
+  Str: '3.0'
+  Type: Las
+  Name: Laspistol
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 30"
+  Rules: Heavy 2
+  Str: '3.0'
+  Type: Las
+  Name: Lasrifle (Volley)
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Heavy 1
+  Str: '6.0'
+  Type: Las
+  Name: Lasrifle (Blast Charger)
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 2
+  Str: '3.0'
+  Type: Las
+  Name: Lascarbine
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 9"
+  Rules: Pistol 2
+  Str: '6.0'
+  Type: Las
+  Name: Blast Pistol
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 2, Twin-linked, Exoshock (6+), Gets Hot
+  Str: '9.0'
+  Type: Las
+  Name: Proteus Laser Destroyer
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 6"
+  Rules: Pistol 1, Armourbane (melta)
+  Str: '8.0'
+  Type: Melta
+  Name: Inferno Pistol
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 1, Armourbane (melta)
+  Str: '8.0'
+  Type: Melta
+  Name: Meltagun
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 1, Armourbane (melta), Twin-linked
+  Str: '8.0'
+  Type: Melta
+  Name: Multi-Melta
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 6"
+  Rules: Heavy 3, Armourbane (melta)
+  Str: '8.0'
+  Type: Melta
+  Name: Melta Cutters
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Pinning
+  Str: '4.0'
+  Type: Missile
+  Name: Missile Launcher - Frag
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1
+  Str: '8.0'
+  Type: Missile
+  Name: Missile Launcher - Krak
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Skyfire
+  Str: '7.0'
+  Type: Missile
+  Name: Missile Launcher - Flak
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, One Shot
+  Str: '8.0'
+  Type: Missile
+  Name: Hunter-Killer Missile
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Heavy 1, Sunder, One Shot
+  Str: '9.0'
+  Type: Missile
+  Name: Hellstrike Missile
+- AP: '2.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Heavy 1, Skyfire, Sunder, One Use
+  Str: '8.0'
+  Type: Missile
+  Name: Skystrike Missile
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Blast (3"), Pinning
+  Str: '4.0'
+  Type: Missile
+  Name: Vratine Missile Launcher - Frag
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1
+  Str: '8.0'
+  Type: Missile
+  Name: Vratine Missile Launcher - Krak
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 1, Psy-shock
+  Str: '7.0'
+  Type: Missile
+  Name: Vratine Missile Launcher - Psyk-Out
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 3, Skyfire
+  Str: '7.0'
+  Type: Missile
+  Name: Hyperios Missile Launcher
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 1, Blast (3"), Breaching (4+), Gets Hot, One Use
+  Str: '7.0'
+  Type: Missile
+  Name: Sunfury Missile
+- AP: '1.0'
+  Legion: IMPERIUM
+  Range: 36"
+  Rules: Heavy 1, Armourbane (ranged), One Use
+  Str: '8.0'
+  Type: Missile
+  Name: Kraken Penetrator Missile
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Rending (6+)
+  Str: '7.0'
+  Type: Missile
+  Name: Praetor Launcher
+- AP: None
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Assault 3, Poisoned (3+), Pinning
+  Str: '2.0'
+  Type: Needle
+  Name: Assault Needler
+- AP: None
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Heavy 4, Poisoned (3+), Pinning
+  Str: '2.0'
+  Type: Needle
+  Name: Needle Cannon
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Pistol 1, Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Plasma Pistol
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Rapid Fire, Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Plasma Gun
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: Template
+  Rules: Assault 1, Breaching (4+), Gets Hot
+  Str: '7.0'
+  Type: Plasma
+  Name: Proteus Plasma Projector
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 48"
+  Rules: Heavy 1, Large Blast (5"), Rending (4+)
+  Str: '7.0'
+  Type: Plasma
+  Name: Executioner Plasma Cannon
+- AP: '3.0'
+  Legion: IMPERIUM
+  Range: 72"
+  Rules: Ordnance 1, Massive Blast (7"), Breaching (4+)
+  Str: '9.0'
+  Type: Plasma
+  Name: Plasma Blastgun
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 10"
+  Rules: Pistol 2, Deflagrate
+  Str: '5.0'
+  Type: Volkite
+  Name: Volkite Serpenta
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 15"
+  Rules: Assault 2, Deflagrate
+  Str: '5.0'
+  Type: Volkite
+  Name: Volkite Charger
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 45"
+  Rules: Heavy 8, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Macro-Saker
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 30"
+  Rules: Heavy 3, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Caliver
+- AP: '5.0'
+  Legion: IMPERIUM
+  Range: 45"
+  Rules: Heavy 5, Deflagrate
+  Str: '6.0'
+  Type: Volkite
+  Name: Volkite Culverin
+- AP: '6.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Blast (3"), Pinning
+  Str: '3.0'
+  Type: Vrantine Grenade Launcher
+  Name: Vrantine Grenade Launcher - Frag
+- AP: '4.0'
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1
+  Str: '5.0'
+  Type: Vrantine Grenade Launcher
+  Name: Vrantine Grenade Launcher - Krak
+- AP: None
+  Legion: IMPERIUM
+  Range: 24"
+  Rules: Assault 1, Blast (3"), Psy-shock
+  Str: '4.0'
+  Type: Vrantine Grenade Launcher
+  Name: Vrantine Grenade Launcher - Psyk-Out
+- AP: None
+  Legion: IMPERIUM
+  Range: 12"
+  Rules: Assault 1, Entengled (1)
+  Str: '5.0'
+  Type: Snare
+  Name: Snare Gun
+- AP: None
+  Legion: IMPERIUM
+  Range: 18"
+  Rules: Heavy 3, Entengled (2)
+  Str: '7.0'
+  Type: Snare
+  Name: Snare Cannon
+- AP: '2.0'
+  Legion: ASSASSINORUM
+  Range: 100"
+  Rules: Heavy 1, Murderous Strike (5+), Rending (6+), Sniper
+  Str: '7.0'
+  Type: Exotic / Misc
+  Name: Exitus Rifle
+- AP: '4.0'
+  Legion: ASSASSINORUM
+  Range: 12"
+  Rules: Pistol 3, Breaching (6+), Sniper
+  Str: '6.0'
+  Type: Exotic / Misc
+  Name: Exitus Pistol
+- AP: '4.0'
+  Legion: ASSASSINORUM
+  Range: Template
+  Rules: Assault 1, Rending (6+), Psy-shock
+  Str: '4.0'
+  Type: Exotic / Misc
+  Name: Animus Blast
+- AP: None
+  Legion: ASSASSINORUM
+  Range: Template
+  Rules: Pistol 1, Rending (5+), Synaptic Disruptor
+  Str: '1.0'
+  Type: Exotic / Misc
+  Name: Neural Shredder
+- AP: '5.0'
+  Legion: ASSASSINORUM
+  Range: 12"
+  Rules: Pistol 1
+  Str: '4.0'
+  Type: Bolt
+  Name: Bolt Pistol
+- AP: None
+  Legion: ASSASSINORUM
+  Range: 12"
+  Rules: Pistol 2, Poisoned (3+) Pinning
+  Str: '2.0'
+  Type: Needle
+  Name: Needle Pistol
+- AP: None
+  Legion: ASSASSINORUM
+  Range: '12.0'
+  Rules: Pistol 1, Poisoned (3+), Pinning
+  Str: '2.0'
+  Type: Combi
+  Name: Needlespine Blaster (Primary)
+- AP: '5.0'
+  Legion: ASSASSINORUM
+  Range: '12.0'
+  Rules: Pistol 3
+  Str: '4.0'
+  Type: Combi
+  Name: Bolt Blaster (Secondary)
+- AP: '4.0'
+  Legion: ASSASSINORUM
+  Range: Template
+  Rules: Assault 1, Poison (3+) Rending (6+)
+  Str: '3.0'
+  Type: Exotic / Misc
+  Name: Toxin Ejector
