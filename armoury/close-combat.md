@@ -10,7 +10,7 @@ layout: default
 {% assign groupedProfiles = sortedProfiles | group_by: 'Type' %}
 {% for type_group in groupedProfiles %}
 <div class="card">
-    <h3>{{ group.name }}</h3>
+    <h3>{{ type_group.name }}</h3>
     <table style="width:100%">
         <thead>
             <tr class="header">
@@ -22,7 +22,7 @@ layout: default
             </tr>
         </thead>
         <tbody>
-        {% for profile in type_group %}
+        {% for profile in type_group.items %}
             <tr>
                 <td>{{ profile.Name }}</td>
                 <td class="stat">{{ profile.Range }}</td>
