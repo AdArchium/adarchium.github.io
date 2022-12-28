@@ -22,7 +22,7 @@
 - AP: '3'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Rending(6+), Force
+  Rules: Melee, Rending (6+), Force
   Str: User
   Type: Force
   Name: Force Sword
@@ -218,7 +218,7 @@
 - AP: '3'
   Legion: EC
   Range: Melee
-  Rules: Melee, Rending(6+), Murderous Strike (6+)
+  Rules: Melee, Rending (6+), Murderous Strike (6+)
   Str: User
   Type: Power
   Name: Phoenix Rapier
