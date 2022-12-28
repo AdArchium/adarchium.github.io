@@ -8,7 +8,7 @@ layout: default
 
 {% assign sortedProfiles = site.data.closecombat | sort: 'Name' %}
 <div class="card">
-    <table width=100%>
+    <table style="width:100%">
         <thead>
             <tr class="header">
                 <th>Weapon Name</th>
