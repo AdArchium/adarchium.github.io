@@ -135,7 +135,7 @@
   Legion: SW
   Range: Melee
   Rules: Melee, Specialist Weapon, Shred, Reaping Blow (1)
-  Str: USER
+  Str: User
   Type: Frost
   Name: Frost Claw
 - AP: '2'
@@ -184,35 +184,35 @@
   Legion: BA
   Range: Melee
   Rules: Melee, Shred, Sudden Strike (1)
-  Str: USER
+  Str: User
   Type: Power
   Name: Sunrise Blade
 - AP: '3'
   Legion: BA
   Range: Melee
   Rules: Melee, Rending (5+), Sunder
-  Str: USER
+  Str: User
   Type: Power
   Name: Sunset Blade
 - AP: '2'
   Legion: BA
   Range: Melee
   Rules: Melee, Shred, Brutal (2)
-  Str: USER
+  Str: User
   Type: Power / Flame
   Name: Talon Of Perdition
 - AP: '2'
   Legion: UM
   Range: Melee
   Rules: Melee
-  Str: USER
+  Str: User
   Type: Power
   Name: Legatine Axe
 - AP: '3'
   Legion: RG
   Range: Melee
   Rules: Melee, Shred, Rending (5+), Specialist Weapon
-  Str: USER
+  Str: User
   Type: Power
   Name: Raven's Talons
 - AP: '3'
@@ -303,7 +303,7 @@
   Legion: WE
   Range: Melee
   Rules: Melee, Two-handed, Fleshbane, Reach (1), Rending (5+)
-  Str: USER
+  Str: User
   Type: Caedere
   Name: Barb-Hook Lash
 - AP: '3'

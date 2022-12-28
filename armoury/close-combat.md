@@ -14,10 +14,10 @@ layout: default
     <table style="width:100%; margin: 0 auto;">
         <thead>
             <tr class="table_header">
-                <th>Weapon Name</th>
+                <th style="width:30%">Weapon Name</th>
                 <!--<th>Range</th>-->
-                <th>Strength</th>
-                <th>AP</th>
+                <th style="width:10%">Strength</th>
+                <th style="width:10%">AP</th>
                 <th>Special Rules</th>
             </tr>
         </thead>
