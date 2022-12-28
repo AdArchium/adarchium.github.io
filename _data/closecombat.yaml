@@ -15,7 +15,7 @@
 - AP: '2'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Armourbane(melee), Murderous Strike(5+)
+  Rules: Melee, Armourbane (Melee), Murderous Strike (5+)
   Str: '10'
   Type: Chain
   Name: Gravis Chainfist
@@ -43,14 +43,14 @@
 - AP: '3'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Reach(1), Force
+  Rules: Melee, Reach (1), Force
   Str: '+1'
   Type: Force
   Name: Force Staff
 - AP: '2'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Unwieldy, Brutal(2), Specialist Weapon
+  Rules: Melee, Unwieldy, Brutal (2), Specialist Weapon
   Str: x2
   Type: Power
   Name: Thunder Hammer
@@ -64,14 +64,14 @@
 - AP: '2'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Brutal(3)
+  Rules: Melee, Brutal (3)
   Str: '10'
   Type: Siege
   Name: Leviathan Siege Claw
 - AP: '2'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Armourbane(3)
+  Rules: Melee, Armourbane (3)
   Str: '12'
   Type: Siege
   Name: Leviathan Siege Drill
@@ -218,14 +218,14 @@
 - AP: '3'
   Legion: EC
   Range: Melee
-  Rules: Melee, Rending(6+), Murderous Strike(6+)
+  Rules: Melee, Rending(6+), Murderous Strike (6+)
   Str: User
   Type: Power
   Name: Phoenix Rapier
 - AP: '3'
   Legion: EC
   Range: Melee
-  Rules: Melee, Reach(1), Murderous Strike(6+), Breaching(6+), Two-handed
+  Rules: Melee, Reach (1), Murderous Strike (6+), Breaching (6+), Two-handed
   Str: '+2'
   Type: Power
   Name: Phoenix Power Spear
@@ -246,7 +246,7 @@
 - AP: '2'
   Legion: IW
   Range: Melee
-  Rules: Melee, Brutal(2), Haywire
+  Rules: Melee, Brutal (2), Haywire
   Str: '+2'
   Type: Graviton
   Name: Graviton Maul
@@ -281,7 +281,7 @@
 - AP: '4'
   Legion: WE
   Range: Melee
-  Rules: Melee, Two-handed, Reach(1), Breaching (5+)
+  Rules: Melee, Two-handed, Reach (1), Breaching (5+)
   Str: '2'
   Type: Caedere
   Name: Meteor Hammer
@@ -484,7 +484,7 @@
 - AP: '2'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Armourbane(melee), Unwieldy
+  Rules: Melee, Armourbane (Melee), Unwieldy
   Str: x2
   Type: Chain
   Name: Chainfist
@@ -526,7 +526,7 @@
 - AP: '2'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Armourbane (melee)
+  Rules: Melee, Armourbane (Melee)
   Str: '10'
   Type: Chain
   Name: Reaper Chainfist
@@ -575,14 +575,14 @@
 - AP: '1'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Shred, Destructor, Instant Death, Armourbane (melee)
+  Rules: Melee, Shred, Destructor, Instant Death, Armourbane (Melee)
   Str: '15'
   Type: Power
   Name: Arioch Power Claw
 - AP: '1'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Unwieldy, Cumbersome, Armourbane (melee), Instant Death
+  Rules: Melee, Unwieldy, Cumbersome, Armourbane (Melee), Instant Death
   Str: '10'
   Type: Cutting
   Name: Las-Impulsor (Melee)
@@ -596,21 +596,21 @@
 - AP: '2'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Armourbane (melee), Concussive (2)
+  Rules: Melee, Armourbane (Melee), Concussive (2)
   Str: '10'
   Type: Graviton
   Name: Graviton Hammer (Melee)
 - AP: '1'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Armourbane (melee), Concussive (2)
+  Rules: Melee, Armourbane (Melee), Concussive (2)
   Str: '10'
   Type: Graviton
   Name: Graviton Ram (Melee)
 - AP: '2'
   Legion: MECHANICUM
   Range: Melee
-  Rules: Melee, Unwieldy, Shred, Armourbane(melee)
+  Rules: Melee, Unwieldy, Shred, Armourbane (Melee)
   Str: '+1'
   Type: Servo
   Name: Machinator Array
@@ -687,21 +687,21 @@
 - AP: None
   Legion: IMPERIUM
   Range: Melee
-  Rules: Melee, Breaching(5+), Duellist's Edge(1)
+  Rules: Melee, Breaching (5+), Duellist's Edge (1)
   Str: User
   Type: Charnabal
   Name: Charnabal Sabre
 - AP: None
   Legion: IMPERIUM
   Range: Melee
-  Rules: Melee, Breaching(6+), Duellist's Edge(1)
+  Rules: Melee, Breaching (6+), Duellist's Edge (1)
   Str: '+2'
   Type: Charnabal
   Name: Charnabal Tabar
 - AP: None
   Legion: IMPERIUM
   Range: Melee
-  Rules: Melee, Breaching(5+), Duellist's Edge(2), Two-handed
+  Rules: Melee, Breaching (5+), Duellist's Edge (2), Two-handed
   Str: '+1'
   Type: Charnabal
   Name: Charnabal Glaive
@@ -827,7 +827,7 @@
 - AP: '1'
   Legion: IMPERIUM
   Range: Melee
-  Rules: Melee, Armorbane (melee), Two-handed, Sudden Strike (3)
+  Rules: Melee, Armorbane (Melee), Two-handed, Sudden Strike (3)
   Str: '10'
   Type: Solarite
   Name: Solarite Power Lance
@@ -869,7 +869,7 @@
 - AP: '1'
   Legion: IMPERIUM
   Range: Melee
-  Rules: Melee, Detonation, Unwieldy, Armourbane(melee), Instant Death
+  Rules: Melee, Detonation, Unwieldy, Armourbane (Melee), Instant Death
   Str: '8'
   Type: Exotic / Misc
   Name: Melta Bomb
