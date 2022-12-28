@@ -161,4 +161,9 @@ tr:nth-child(even) {background-color: #D1D1D1;}
     text-align: center;
     border: none;
   }
+
+  .card {
+    overflow: auto;
+    overflow-y: hidden;
+  }
 }
