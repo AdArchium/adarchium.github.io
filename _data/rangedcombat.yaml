@@ -53,7 +53,7 @@
   Rules: Ordnance 1, Massive Blast (7")
   Str: '8'
   Type: Auto
-  Name: Fellblade Accelerator Cannon - He Shell
+  Name: Fellblade Accelerator Cannon - HE Shell
 - AP: '2'
   Legion: GEN
   Range: 100"
@@ -81,14 +81,14 @@
   Rules: Heavy 1, Large Blast (5"), Pinning
   Str: '8'
   Type: Auto
-  Name: Kratos Battlecannon - He Shells
+  Name: Kratos Battlecannon - HE Shells
 - AP: '2'
   Legion: GEN
   Range: 36"
   Rules: Heavy 2, Sunder
   Str: '8'
   Type: Auto
-  Name: Kratos Battlecannon - Ap Shells
+  Name: Kratos Battlecannon - AP Shells
 - AP: '1'
   Legion: GEN
   Range: 24"
@@ -461,14 +461,14 @@
   Rules: Ordnance 1, Barrage, Large Blast (5")
   Str: '6'
   Type: Missile
-  Name: Whirlwind Missile Launcher - Talonis He Missile
+  Name: Whirlwind Missile Launcher - Talonis HE Missile
 - AP: '4'
   Legion: GEN
   Range: 48"
   Rules: Ordnance 1, Barrage, Blast (3"), Breaching (4+)
   Str: '7'
   Type: Missile
-  Name: Whirlwind Missile Launcher - Thermios Ap Missile
+  Name: Whirlwind Missile Launcher - Thermios AP Missile
 - AP: '3'
   Legion: GEN
   Range: 48"
@@ -638,28 +638,28 @@
   Range: 8"
   Rules: Assault 6, Poison (3+), One Shot
   Str: '1'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Venom Spheres
 - AP: None
   Legion: AL
   Range: 12"
   Rules: Assault 1, Hydra's Wail
   Str: None
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Hydra's Wail Disruption Array
 - AP: '6'
   Legion: BA
   Range: 12"
   Rules: Assault 3, Pinning
   Str: '3'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Grenade Discharger - Frag
 - AP: '4'
   Legion: BA
   Range: 12"
   Rules: Assault 1
   Str: '6'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Grenade Discharger - Krak
 - AP: '4'
   Legion: BA
@@ -724,21 +724,21 @@
   Range: 18"
   Rules: Assault 2
   Str: '6'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Assault Grenade Launcher - Krak
 - AP: '5'
   Legion: DG
   Range: 18"
   Rules: Assault 4, Poisoned (3+), Ignores Cover
   Str: '1'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Assault Grenade Launcher - Toxin
 - AP: '4'
   Legion: DG
   Range: Template
   Rules: Assault 1, Poisoned (3+)
   Str: '1'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Death Cloud Projector
 - AP: '4'
   Legion: DG
@@ -780,14 +780,14 @@
   Range: 36"
   Rules: Assault 3, Gets Hot, Pinning, Shell Shock (1), Deflagrate
   Str: '6'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Cacophony
 - AP: None
   Legion: EC
   Range: Template
   Rules: Assault 1, Breaching (6+), Pinning
   Str: '2'
-  Type: Exotic?
+  Type: "Exotic / Misc"
   Name: Sonic Lance
 - AP: '4'
   Legion: IH
@@ -962,7 +962,7 @@
   Range: 18"
   Rules: Assault 2, Harrower
   Str: '4'
-  Type: Bolt?
+  Type: Bolt
   Name: Mortifer Bolter
 - AP: '5'
   Legion: UM
@@ -1133,7 +1133,7 @@
   Rules: Heavy 2, Sunder, Rending (6+)
   Str: '7'
   Type: Auto
-  Name: Phaeton Autocannon - Ap Rounds
+  Name: Phaeton Autocannon - AP Rounds
 - AP: '3'
   Legion: MECHANICUM
   Range: 64"
@@ -1512,14 +1512,14 @@
   Rules: Ordnance 1, Barrage, Large Blast (5")
   Str: '6'
   Type: Missile
-  Name: Talonis He Missile
+  Name: Talonis HE Missile
 - AP: '4'
   Legion: MECHANICUM
   Range: 48"
   Rules: Ordnance 1, Barrage, Blast (3"), Breaching (4+)
   Str: '7'
   Type: Missile
-  Name: Thermios Ap Missile
+  Name: Thermios AP Missile
 - AP: '3'
   Legion: MECHANICUM
   Range: 48"
@@ -1532,7 +1532,7 @@
   Range: 12"-72"
   Rules: Ordnance 1, Barrage, Large Blast (5"), Pinning, Ignores Cover
   Str: '7'
-  Type: Missile?
+  Type: Artillery Cannon 
   Name: Mars-Colossus Bombard
 - AP: '4'
   Legion: MECHANICUM
