@@ -8,7 +8,7 @@ layout: default
 
 {% assign sortedProfiles = site.data.closecombat | sort: 'Name' %}
 <div class="card">
-    <table>
+    <table width=100%>
         <thead>
             <tr class="header">
                 <th>Weapon Name</th>
@@ -22,10 +22,10 @@ layout: default
         {% for profile in sortedProfiles %}
             <tr>
                 <td>{{ profile.Name }}</td>
-                <td>{{ profile.Range }}</td>
-                <td>{{ profile.Str }}</td>
-                <td>{{ profile.AP }}</td>
-                <td>{{Profile.Rules}}</td>
+                <td class="stat">{{ profile.Range }}</td>
+                <td class="stat">{{ profile.Str }}</td>
+                <td class= "stat">{{ profile.AP }}</td>
+                <td>{{ profile.Rules }}</td>
             </tr>
         {% endfor %}
         </tbody>

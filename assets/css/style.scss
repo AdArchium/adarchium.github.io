@@ -109,6 +109,15 @@ th {
   top: 5%; /* Don't forget this, required for the stickiness */
   box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
+td .stat {
+  text-align: center;
+  vertical-align: middle;
+}
+
+tr .header {
+  text-align: center;
+  vertical-align: middle;
+}
 
 /* When the screen is less than 800 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 800px) {
