@@ -23,7 +23,7 @@ layout: default
         </thead>
         <tbody>
         {% for profile in type_group.items %}
-            <tr>
+            <tr class="searchable">
                 <td>{{ profile.Name }}</td>
             <!--<td class="table_stat">{{ profile.Range }}</td>-->
                 <td class="table_stat">{{ profile.Str }}</td>
