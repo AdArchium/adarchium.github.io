@@ -11,7 +11,7 @@ layout: default
 {% for type_group in groupedProfiles %}
 <div class="card">
     <h3>{{ type_group.name }}</h3>
-    <table style="width:100%">
+    <table style="width:100%; margin: 0 auto;">
         <thead>
             <tr class="header">
                 <th>Weapon Name</th>
