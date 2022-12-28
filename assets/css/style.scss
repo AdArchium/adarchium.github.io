@@ -107,7 +107,7 @@ body {
 th {
   background: white;
   position: sticky;
-  top: 95px; /* Don't forget this, required for the stickiness */
+  top: 104px; /* Don't forget this, required for the stickiness */
   box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
 }
 .table_stat {
@@ -119,6 +119,10 @@ th {
   text-align: center;
   vertical-align: middle;
 }
+
+table {border-collapse: collapse;}
+
+tr:nth-child(even) {background-color: #D1D1D1;}
 
 /* When the screen is less than 800 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 800px) {
@@ -135,12 +139,12 @@ th {
     float: none;
   }
   .wrapper {
-    width: 100%;
+    width: 85%;
     margin: 0 auto;
   }
   .current-section {
     margin: 0 auto;
-    width: 100%;
+    width: 90%;
     left: 4.25%;
   }
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
