@@ -71,7 +71,7 @@
 - AP: '2'
   Legion: GEN
   Range: Melee
-  Rules: Melee, Armourbane (3)
+  Rules: Melee, Armourbane (Melee)
   Str: '12'
   Type: Siege
   Name: Leviathan Siege Drill
