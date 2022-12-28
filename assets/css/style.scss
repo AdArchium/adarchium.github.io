@@ -120,7 +120,7 @@ th {
   vertical-align: middle;
 }
 
-table {border-collapse: collapse;}
+.markdown-body table {border-collapse: collapse;}
 
 tr:nth-child(even) {background-color: #D1D1D1;}
 
@@ -161,15 +161,21 @@ tr:nth-child(even) {background-color: #D1D1D1;}
     text-align: center;
     border: none;
   }
-
+  #container {
+    width: 90vw;
+    margin-left: -2.5vw;
+  }
+  #main {
+    padding: 0 10px 90px;
+  }
   .card {
-    overflow: auto;
-    width: 95vw;
+    overflow-x: auto;
+    width:110%;
   }
   td {
     font-size: 0.75em;
   }
-  th {
+  .markdown-body th {
     font-size: 0.75em;
   }
 }
