@@ -161,16 +161,16 @@ tr:nth-child(even) {background-color: #D1D1D1;}
     text-align: center;
     border: none;
   }
-  #container {
-    width: 90vw;
-    margin-left: -2.5vw;
+  #wrapper {
+    width: 95vw;
+  }
   }
   #main {
-    padding: 0 10px 90px;
+    padding: 0 15px 90px;
   }
   .card {
-    overflow-x: auto;
-    width:110%;
+    padding-left: 0rem;
+    padding-right: 0rem;
   }
   td {
     font-size: 0.75em;
