@@ -6,7 +6,7 @@ layout: default
 <!--<input type="search" oninput="setTimeout(function(){liveSearch();},500);" id="searchbox" >-->
 <input type="search" id="searchbox" >
 
-{% assign sortedProfiles = site.data.closecombat | sort: 'Name' %}
+{% assign sortedProfiles = site.data.closecombat | sort: 'Type' %}
 {% assign groupedProfiles = sortedProfiles | group_by: 'Type' %}
 {% for type_group in groupedProfiles %}
 <div class="card">
@@ -22,7 +22,8 @@ layout: default
             </tr>
         </thead>
         <tbody>
-        {% for profile in type_group.items %}
+        {% assign sorted_rows = type_group.items | sort: 'Name' %}
+        {% for profile in sorted_rows %}
             <tr class="searchable">
                 <td>{{ profile.Name }}</td>
             <!--<td class="table_stat">{{ profile.Range }}</td>-->

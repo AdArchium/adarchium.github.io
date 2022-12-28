@@ -15,7 +15,7 @@ layout: default
         <thead>
             <tr class="table_header">
                 <th style="width:30%">Weapon Name</th>
-                <!--<th>Range</th>-->
+                <th style="width:10%">Range</th>
                 <th style="width:10%">Strength</th>
                 <th style="width:10%">AP</th>
                 <th>Special Rules</th>
@@ -26,7 +26,7 @@ layout: default
         {% for profile in sorted_rows %}
             <tr class="searchable">
                 <td>{{ profile.Name }}</td>
-            <!--<td class="table_stat">{{ profile.Range }}</td>-->
+                <td class="table_stat">{{ profile.Range }}</td>
                 <td class="table_stat">{{ profile.Str }}</td>
                 <td class= "table_stat">{{ profile.AP }}</td>
                 <td>{{ profile.Rules }}</td>
