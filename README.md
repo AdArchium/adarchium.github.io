@@ -16,8 +16,8 @@ Please report any issues, bugs, and/or feature requests to our [GitHub repositor
 ## Credits:
 - This page generated using [GitHub Pages](https://pages.github.com/).
 - Base Theme by [Jon Rohan](https://twitter.com/jonrohan/).
-- Transcribed Rules Credit [Games Workshop Limited](www.warhammer.com). Please support the official release.
-- Transcription Courtasy of Ollanius#9837, Deadlycinna#9642, and LordAdorable#6514 with origional work by [Flaymaster](https://www.instagram.com/the_flaymaster).  
+- Transcribed Rules credited to [Games Workshop Limited](www.warhammer.com). Please support the official release.
+- Transcription courtesy of Ollanius#9837, Deadlycinna#9642, and LordAdorable#6514 with origional work by [Flaymaster](https://www.instagram.com/the_flaymaster).  
 - Site created and maintained by DaPhysicist#5782.  
 - Favicon by the _Legacy of Dorn: Herald of Oblivion_ [Art Team](https://steamcommunity.com/games/389850/announcements/detail/1422426664458667481).  
 - Navigation Icons created by [Freepik - Flaticon](https://www.flaticon.com/free-icons/sports-and-competition "sports-and-competition icons").
