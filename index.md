@@ -12,6 +12,7 @@ Visitors to the Archive should consider <i>Ad Archium</i> as an extension of you
 In keeping with our goal, we will <strong>never</strong> publish army construction metrics of any kinds (organization charts, unit composition/options/points, etc).
 
 Sincery,
+
 The Scribes of the Gamma Leonis Cluster
 
 ![Armouring a Space Marine](/assets/images/mikhail-savier-17.png)
