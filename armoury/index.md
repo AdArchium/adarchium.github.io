@@ -1,16 +1,16 @@
 ---
 layout: default
 ---
-<p style="margin: 0 auto; width=90%">
+<div style="margin: 0 auto; text-align: center;">
     <a href="/armoury/close-combat">
         <h3>Close Combat Weapons</h3>
-        <img src="/assets/images/combat.png">
+        <img src="/assets/images/combat.png" width="35%">
     </a>
-</p>
+</div>
 <hr />
-<p style="margin: 0 auto; width=90%">
+<div style="margin: 0 auto; text-align: center;">
     <a href="/armoury/close-combat">
         <h3>Ranged Weapons</h3>
-        <img src="/assets/images/ranged.png">
+        <img src="/assets/images/ranged.png" width="35%">
     </a>
-</p>
+</div>
