@@ -9,7 +9,7 @@ layout: default
 </div>
 <hr />
 <div style="margin: 0 auto; text-align: center;">
-    <a href="/armoury/close-combat">
+    <a href="/armoury/ranged-fire">
         <h3>Ranged Weapons</h3>
         <img src="/assets/images/ranged.png" width="35%">
     </a>

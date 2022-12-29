@@ -12,6 +12,8 @@ Visitors to <i>Ad Archium</i> should consider it as an <strong>extension</strong
 In keeping with the above goal, we will <strong>never</strong> publish army construction metrics of any kinds (organization charts, unit composition/options/points, etc).
 Please support all official releases and their respective authors.
 
+Please report any issues, bugs, and/or feature requests to our <a href="https://github.com/AdArchium/adarchium.github.io/issues" target="_blank">GitHub repository</a>.
+
 Sincerely,<br />
 The Scribes of the Gamma Leonis Cluster
 
